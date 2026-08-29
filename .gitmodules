@@ -1,0 +1,3 @@
+[submodule "fakeplayer"]
+	path = fakeplayer
+	url = ./fakeplayer
