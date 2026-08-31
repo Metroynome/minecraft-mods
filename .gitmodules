@@ -1,3 +1,6 @@
 [submodule "fakeplayer"]
 	path = fakeplayer
 	url = https://github.com/Metroynome/fakeplayer.git
+[submodule "nightvision"]
+	path = nightvision
+	url = https://github.com/Metroynome/nightvision.git
