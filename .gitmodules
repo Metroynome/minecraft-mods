@@ -4,3 +4,6 @@
 [submodule "nightvision"]
 	path = nightvision
 	url = https://github.com/Metroynome/nightvision.git
+[submodule "accessibilityplus"]
+	path = accessibilityplus
+	url = https://github.com/Metroynome/accessibilityplus.git
