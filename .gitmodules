@@ -7,3 +7,6 @@
 [submodule "accessibilityplus"]
 	path = accessibilityplus
 	url = https://github.com/Metroynome/accessibilityplus.git
+[submodule "lightoverlay"]
+	path = lightoverlay
+	url = https://github.com/Metroynome/lightoverlay.git
